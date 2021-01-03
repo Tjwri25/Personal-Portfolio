@@ -1,0 +1,67 @@
+nav {
+    font-family: 'Italiana';font-size: 22px;
+}
+
+  
+
+
+body {
+    background-image: url("/Users/tjwri/Desktop/bootcamp/Homework/week2-homework/assets/moth.jpg");
+    background-position: center, center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.nav-link {
+    text-align: end;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+
+
+  @media screen and (min-width: 400px) {
+    .column {
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+
+
+.image-thumbnail {
+    border: 5px solid #343E32;
+}
+
+.row {
+    
+    
+    margin-top: 10px;
+    
+
+
+}  
+
+
+    
+
+
+.col-8 {
+  opacity: .8;
+  text-align: center;
+  font-family: 'Italiana';
+  border-radius: 25px;
+  background:  #e6e6e6;
+  padding: 20px;
+  
+}
+  
+
+ 
+
