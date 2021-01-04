@@ -60,6 +60,7 @@ body {
   background:  #e6e6e6;
   padding: 20px;
   
+  
 }
 
 
@@ -102,10 +103,11 @@ div.sticky {
   position: -webkit-sticky;
   position: sticky;
   bottom: 0;
-  background-color: #343E32;
-  padding: 20px;
+  background-color:#343E32;
+  padding: 18px;
   font-size: 10px;
+  color:#0a2711;
   text-align: center;
-  color: #e6e6e6;
+  
 }
 
