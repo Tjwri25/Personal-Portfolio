@@ -98,6 +98,12 @@ form {
   margin: 30px;
   
 }
+
+
+
+.push {
+  height: 30vh;
+}
   
 div.sticky {
   position: -webkit-sticky;
@@ -111,3 +117,14 @@ div.sticky {
   
 }
 
+footer {
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  background-color: #343E32;
+  padding: 18px;
+  font-size: 10px;
+  color: #0a2711;
+  text-align: center;
+
+}
