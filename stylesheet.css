@@ -152,5 +152,14 @@ div.sticky {
   
 }
 
+footer {
+  width: 100%
+  bottom: 0;
+  background-color:#343E32;
+  padding: 18px;
+  font-size: 10px;
+  color:#0a2711;
+  text-align: center;
+}
 
 
