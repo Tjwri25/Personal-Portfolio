@@ -14,9 +14,6 @@ body {
     
 }
 
-.nav-link {
-    text-align: end;
-}
 
 .row {
     display: flex;
@@ -24,9 +21,37 @@ body {
     padding: 0 4px;
   }
   
+  .card {
+    margin: 0 auto;
+    float: none; 
+    margin-bottom: 10px;
+    background:  #e6e6e6;
+    padding: 20px;
+    margin-top: 10px;
+    opacity: .9;
+  
+}
+
+.fa {
+  color:black;
+}
+
+ 
+.btn {
+  
+  border: none; 
+  color: white;
+  padding: 12px 16px; 
+  font-size: 16px; 
+  cursor: pointer; 
+}
 
 
-  @media screen and (min-width: 400px) {
+.btn:hover {
+  background-color: #343E32;
+}
+
+@media screen and (min-width: 400px) {
     .column {
       flex: 50%;
       max-width: 50%;
@@ -61,6 +86,16 @@ body {
   padding: 20px;
   
   
+}
+
+.col-12 {
+  opacity: .8;
+  text-align: center;
+  font-family: 'Italiana';
+  border-radius: 25px;
+  background:  #e6e6e6;
+  padding: 20px;
+
 }
 
 
