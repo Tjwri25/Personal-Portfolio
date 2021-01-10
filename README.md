@@ -23,5 +23,5 @@ For this assignment I:
 
 
 
-![View Page](assets/screenshot.png)
+![View Page](assets/images/screenshot.png)
 
