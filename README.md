@@ -22,6 +22,6 @@ For this assignment I:
 
 
 
- ![Screenshot](screenshot.png)
 
+![View Page](assets/screenshot.jpg)
 
