@@ -134,8 +134,8 @@ form {
   height: 30vh;
 }
   
-div.sticky {
-  position: -webkit-sticky;
+footer {
+  
   position: sticky;
   bottom: 0;
   background-color:#343E32;
