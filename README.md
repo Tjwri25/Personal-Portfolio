@@ -12,7 +12,7 @@ For this assignment I:
        - The navagation bar will change to a hamburger menu on a small screen 
    - Created sticky footers for all pages 
    - Utilized Bootstrap for grid systems and components 
-   - Contains my personal information 
+   - Included my personal information 
        - Photos of me and my family 
        - Links to my social media 
        - An about me section featuring some facts about me and my life 
