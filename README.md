@@ -23,5 +23,6 @@ For this assignment I:
 
 
 
-![View Page](images/Screenshot.png)
+![View Page](images/Screenshot1.png)    ![Image](images/responsive-screenshot.png)
+
 
